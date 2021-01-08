@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Created by: Sumaya Altamimi. 
+// Copyright:Jan 2021 All rights reserved.
+
+using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 

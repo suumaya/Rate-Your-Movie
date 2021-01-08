@@ -14,7 +14,7 @@
         "outputPath": "/Users/tamimisu/Projects/RazorPagesMovie/RazorPagesMovie/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/tamimisu/.nuget/NuGet/NuGet.Config"
+          "/Users/tamimisu/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
