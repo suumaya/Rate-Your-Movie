@@ -167,3 +167,4 @@
 /Users/tamimisu/Projects/RazorPagesMovie/RazorPagesMovie/obj/Release/net5.0/ref/RazorPagesMovie.dll
 /Users/tamimisu/Projects/RazorPagesMovie/RazorPagesMovie/obj/Release/net5.0/RazorPagesMovie.pdb
 /Users/tamimisu/Projects/RazorPagesMovie/RazorPagesMovie/obj/Release/net5.0/RazorPagesMovie.genruntimeconfig.cache
+/Users/tamimisu/Projects/RazorPagesMovie/RazorPagesMovie/obj/Release/net5.0/RazorPagesMovie.csprojAssemblyReference.cache
